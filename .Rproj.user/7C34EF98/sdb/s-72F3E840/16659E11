@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1496176872766.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "16659E11",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1496176872766,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FCFD0692",
+        "caption" : "EEA4thresh",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=EEA4thresh&cache_key=FCFD0692",
+        "displayedObservations" : "48",
+        "environment" : "",
+        "object" : "EEA4thresh",
+        "preview" : "0",
+        "totalObservations" : "48",
+        "variables" : "2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
